@@ -1,0 +1,50 @@
+*{margin: 0;padding:0;box-sizing: border-box;}
+body{background-color: black;}
+header{background-color: #ffcb04;padding: 20px;}  
+.container{max-width:1010px ;margin:auto}
+header .container{display: flex;align-items: center;flex-wrap: wrap;}
+nav{margin-left: auto;}
+#link{cursor: pointer;}
+.right{display: flex;gap:20px}
+.right select{background-color: #ffcb04;border: none;}
+.right li {list-style: none;}
+.right a {text-decoration: none;font-size: 20px;}
+#enter{color: black;border: 1px solid black;padding: 10px;}
+#exxen{color: #ffcb04;background-color: black;padding: 10px;}
+.first{background-color: rgb(20, 20, 20); position: sticky; top: 0;}
+.first .container{display: flex;gap: 10px;padding: 30px;}
+.first .container *{flex: 1; font-weight: bold;}
+#name{width: 250px;height: 50px;padding-left: 30px;border: 2px solid #ffcb04;font-size: 1rem;}
+
+#eposta{width: 250px;height: 50px;padding-left: 30px;border: 2px solid #ffcb04;font-size: 1rem;}
+#member{width: 250px;height: 50px;font-size: 1rem; background-color: #ffcb04; border: none;}
+.second img{cursor: pointer;}
+.third .container{display: flex;flex-wrap: wrap;cursor: pointer;}
+.resim{flex: 25%;padding: 20px;}
+.resim h2{text-align: center;color: white;}
+.resim img{width: 100%;gap: 10px;cursor: pointer;}
+.device {text-align: center;margin-top: 30px;}
+.explain {color: white;text-align: center;}
+.application{display: flex;justify-content: center;gap: 10px;margin-top: 30px;}
+.app img{width: 150px;height: 41px;cursor: pointer;}
+.ikon{display: flex; color: black;justify-content: center;margin: 30px;gap: 15px;cursor: pointer;}
+.help a{text-decoration: none;font-size: 25px;color: #ffcb04;}
+.help{text-align: center;margin: 40px;background-color: rgb(20, 20, 20);;padding: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+
+
